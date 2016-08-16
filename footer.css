@@ -61,7 +61,7 @@ a {
 }
 
 .ct-footer-pre span {
-    font-family: 'Bebas Neue';
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #ebebeb;
     font-size: 30px
 }
@@ -176,7 +176,7 @@ a {
 }
 
 .ct-footer-list > li .ct-footer-list-header {
-    font-family: 'Bebas Neue';
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #00bff3;
     font-size: 30px
 }
@@ -291,7 +291,7 @@ address a:hover {
 }
 
 .btn {
-    font-family: 'Bebas Neue';
+    font-family: 'Open Sans Condensed', sans-serif;
     border-radius: 0;
     border: none;
     text-transform: uppercase;
@@ -387,38 +387,12 @@ address a:hover {
         letter-spacing: -.2px
     }
 }
-@font-face {
-    font-family: 'Bebas Neue';
-    src: url("/core/fileparse.php/16/urlt/../fonts/bebas-neue/bebasneue_bold-webfont.eot");
-    src: url("../fonts/bebas-neue/bebasneue_bold-webfont.eot?#iefix") format('embedded-opentype'), url("/core/fileparse.php/16/urlt/../fonts/bebas-neue/bebasneue_bold-webfont.woff2") format('woff2'), url("/core/fileparse.php/16/urlt/../fonts/bebas-neue/bebasneue_bold-webfont.woff") format('woff'), url("/core/fileparse.php/16/urlt/../fonts/bebas-neue/bebasneue_bold-webfont.ttf") format('truetype'), url("../fonts/bebas-neue/bebasneue_bold-webfont.svg#bebas_neuebold") format('svg');
-    font-weight: normal;
-    font-style: normal
-}
-.bebas {
-    font-family: 'Bebas Neue';
-    line-height: .8
-}
-
-.coquette {
-    font-family: 'coquette', fantasy
-}
-
-.nimbus {
-    font-family: 'nimbus-sans-condensed', sans-serif;
-    font-weight: 400
-}
-
-.columbian {
-    font-family: 'hwt-slab-columbian', sans-serif;
-    font-weight: 400
-}
-
 .ct-mediaSection {
     background-attachment: fixed
 }
 
 .ct-section_header--type1 {
-    font-family: 'Bebas Neue';
+    font-family: 'Open Sans Condensed', sans-serif;
     color: #000;
     font-size: 115px;
     text-transform: uppercase;
